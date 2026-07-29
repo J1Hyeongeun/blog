@@ -17,7 +17,7 @@ order: 4
 
 ## Awards
 
-- `2025.11` KY HACKATHON 3rd
+- `2025.11` 2nd KY HACKATHON 3rd Place
 - `2025.11` Outstanding Paper Award, Fall Conference of the Korea Convergence Security Association
 - `2025.09` WhiteHat School(WHS) 3rd Outstanding Project
 - `2020.09` Codegate 2020 Junior Finalist
