@@ -4,7 +4,7 @@ order: 4
 ---
 
 - Hyeongeun Ji
-- In [JeroScope](https://jeroscope.com/) Research Team
+- In [JeroScope](https://jeroscope.com/){: target="_blank" rel="noopener noreferrer" } Research Team
 
 ## Experiences
 
