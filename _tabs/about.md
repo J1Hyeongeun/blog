@@ -19,7 +19,7 @@ order: 4
 
 - `2025.11` 2nd KY HACKATHON 3rd Place
 - `2025.11` Outstanding Paper Award, Fall Conference of the Korea Convergence Security Association
-- `2025.09` WhiteHat School(WHS) 3rd Outstanding Project(Team.detonator)
+- `2025.09` WhiteHat School(WHS) 3rd Outstanding Project (Team.detonator)
 - `2020.09` Codegate 2020 Junior Finalist
 - `2019.08` YISF 2019 Finalist
 - `etc..`
