@@ -22,5 +22,5 @@ order: 4
 - `2025.11` Outstanding Paper Award, Fall Conference of the Korea Convergence Security Association
 - `2025.09` WhiteHat School(WHS) 3rd Outstanding Project (Team.detonator)
 - `2020.09` Codegate 2020 Junior Finalist
-- `2019.08` YISF 2019 Finalist
+- `2019.08` 2019 YISF Finalist
 - `etc..`
