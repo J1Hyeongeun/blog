@@ -13,11 +13,12 @@ order: 4
 - `2025.03 ~ 2025.09` KITRI WhiteHat School(WHS) 3rd
 - `2023.03 ~ 2024.09` Republic of Korea Army Information Security Soldier
 - `2022.07 ~ 2022.12` KISIA AI Security Technology Development Training Malware Track
+- `2021.03 ~ now` Konyang University B.A in Cyber Security Engineering
 - `etc..`
 
 ## Awards
 
-- `2025.11` 2nd KY HACKATHON 3rd Place
+- `2025.11` 2025 KY HACKATHON 3rd Place
 - `2025.11` Outstanding Paper Award, Fall Conference of the Korea Convergence Security Association
 - `2025.09` WhiteHat School(WHS) 3rd Outstanding Project (Team.detonator)
 - `2020.09` Codegate 2020 Junior Finalist
