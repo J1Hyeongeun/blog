@@ -18,7 +18,7 @@ order: 4
 
 ## Awards
 
-- `2026.10` SAS CTF 2026 4th (Team.dda_com)
+- `2026.10` SAS CTF 2026 Final 4th (Team.dda_com)
 - `2026.09` BlackHat MEA Qualification 1st (Team.dda_com)
 - `2026.08` CCE 2026 General Quals 8th (Team.살려주CCE요)
 - `2025.11` 2025 KY HACKATHON 3rd Place
