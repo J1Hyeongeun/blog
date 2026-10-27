@@ -5,6 +5,7 @@ order: 4
 
 - Hyeongeun Ji
 - In [JeroScope](https://jeroscope.com/){: target="_blank" rel="noopener noreferrer" } Research Team
+- In [따따](https://ddadda-company.github.io/){: target="_blank" rel="noopener noreferrer" } CTF Team
 
 ## Experiences
 
