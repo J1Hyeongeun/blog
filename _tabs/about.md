@@ -20,6 +20,7 @@ order: 4
 ## CTF && Awards
 
 - `2026.10` 2026 ACDC General Quals 17th (Team.Karma)
+- `2026.10` HITCON CTF 2026 1st (Team.KORdex)
 - `2026.10` SAS CTF 2026 Final 4th (Team.dda_com)
 - `2026.09` BlackHat MEA Qualification 1st (Team.dda_com)
 - `2026.08` CCE 2026 General Quals 8th (Team.살려주CCE요)
