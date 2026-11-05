@@ -26,7 +26,7 @@ order: 4
 - `2026.09` BlackHat MEA Qualification **1st** (Team. dda_com)
 - `2026.08` CCE 2026 General Quals 8th (Team. 살려주CCE요)
 - `2025.11` 2025 KY HACKATHON 3rd Place
-- `2025.11` Outstanding Paper Award, Fall Conference of the Korea Convergence Security Association
+- `2025.11` Fall Conference of the Korea Convergence Security Association Outstanding Paper
 - `2025.09` WhiteHat School(WHS) 3rd Outstanding Project (Team. detonator)
 - `2020.09` Codegate 2020 Junior Finalist
 - `2019.08` 2019 YISF Finalist
