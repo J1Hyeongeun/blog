@@ -27,6 +27,8 @@ function verifyUrl(url) {
 
 self.addEventListener('install', (event) => {
   if (purge) {
+    // take over from the old caching worker now, so its caches get deleted without waiting for every tab to close
+    self.skipWaiting();
     return;
   }
 
