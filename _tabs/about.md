@@ -19,6 +19,7 @@ order: 4
 
 ## CTF && Awards
 
+- `2026.11` 2026 Chungnam IT Hackathon **Grand Prize** (Team. 졸업유예지현근)
 - `2026.11` WHITEHAT 2026 Quals 5th (Team. 따따)
 - `2026.10` 2026 ACDC General Quals 17th (Team. Karma)
 - `2026.10` HITCON CTF 2026 **1st** (Team. KORdex)
