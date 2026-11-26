@@ -19,6 +19,7 @@ order: 4
 
 ## CTF && Awards
 
+- `2026.11` 2026 TS Security Vulnerability Discovery Competition Top Excellence Award (Team. 건냥이들)
 - `2026.11` 2026 Chungnam IT Hackathon **Grand Prize** (Team. 졸업유예지현근)
 - `2026.11` WHITEHAT 2026 Quals 5th (Team. 따따)
 - `2026.10` 2026 ACDC General Quals 17th (Team. Karma)
